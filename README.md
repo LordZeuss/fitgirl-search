@@ -37,6 +37,8 @@ This tool can also speed up searching games, just run the program rather than us
 
 Easy for beginners or people who just want to simply find a magnet link and off they go.
 
+---
+
 ## Installation
 Please make sure you have Python and Pip installed.
 
