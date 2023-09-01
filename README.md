@@ -7,7 +7,7 @@ This is a tool which will display magnet links, download the torrent file, or op
 * [How it works](#how-does-it-work)
 * [Why use it](#why-use-this-script)
 * [Installation](#installation)
-* [Insatlling Python](#installing-python)
+* [Installing Python](#installing-python)
 
 ## General Info
 
