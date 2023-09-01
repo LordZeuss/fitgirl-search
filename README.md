@@ -1,11 +1,51 @@
 # fitgirl-search
 This is a tool which will display magnet links, download the torrent file, or open the webpage based on a searched game.
 
+---
+
+## Installation
+Please make sure you have Python and Pip installed.
+
+---
+
+### Install the requirements
+```
+pip install -r requirements.txt
+```
+After that, simply run the script.
+
+**Linux**
+```
+python3 ./fitgirl-search.py
+```
+**Windows**
+```
+python fitgirl-search.py
+```
+
+---
+
+## Installing Python
+
+### Linux
+```
+sudo apt-get install python3
+sudo apt install python3-pip
+```
+### Windows
+```
+https://www.python.org/downloads/windows/
+```
+
+---
+
 ## What does this tool do?
 
 * The tool will display the magnet links for 1337x and RuTor
 * The tool will start/display the torrent file download page
 * The tool will open the game page on fitgirl's site directly
+
+---
 
 ## How do you use it?
 Here are the steps to use the tool
@@ -17,10 +57,14 @@ Here are the steps to use the tool
   * View Game's page on fitgirls site.
 That's it!
 
+---
+
 ## How does it work?
 This program is essentially a webscraper and uses beautifulsoup with python under the hood.
 
 I am simply scraping her official website for the games based on the user's search input, and based on their selection, giving the user a few options.
+
+---
 
 ## Why use this tool?
 This tool can be beneficial for those who do not want to risk potentially using an unofficial fitgirl site
