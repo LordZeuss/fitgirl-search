@@ -3,42 +3,6 @@ This is a tool which will display magnet links, download the torrent file, or op
 
 ---
 
-## Installation
-Please make sure you have Python and Pip installed.
-
----
-
-### Install the requirements
-```
-pip install -r requirements.txt
-```
-After that, simply run the script.
-
-**Linux**
-```
-python3 ./fitgirl-search.py
-```
-**Windows**
-```
-python fitgirl-search.py
-```
-
----
-
-## Installing Python
-
-### Linux
-```
-sudo apt-get install python3
-sudo apt install python3-pip
-```
-### Windows
-```
-https://www.python.org/downloads/windows/
-```
-
----
-
 ## What does this tool do?
 
 * The tool will display the magnet links for 1337x and RuTor
@@ -72,3 +36,35 @@ This tool can be beneficial for those who do not want to risk potentially using 
 This tool can also speed up searching games, just run the program rather than use the browser.
 
 Easy for beginners or people who just want to simply find a magnet link and off they go.
+
+## Installation
+Please make sure you have Python and Pip installed.
+
+### Install the requirements
+```
+pip install -r requirements.txt
+```
+After that, simply run the script.
+
+**Linux**
+```
+python3 ./fitgirl-search.py
+```
+**Windows**
+```
+python fitgirl-search.py
+```
+
+---
+
+## Installing Python
+
+### Linux
+```
+sudo apt-get install python3
+sudo apt install python3-pip
+```
+### Windows
+```
+https://www.python.org/downloads/windows/
+```
