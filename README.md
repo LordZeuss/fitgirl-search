@@ -1,2 +1,30 @@
 # fitgirl-search
 This is a tool which will display magnet links, download the torrent file, or open the webpage based on a searched game.
+
+## What does this tool do?
+
+* The tool will display the magnet links for 1337x and RuTor
+* The tool will start/display the torrent file download page
+* The tool will open the game page on fitgirl's site directly
+
+## How do you use it?
+Here are the steps to use the tool
+* Search for a game
+* Select an option from the list of found games
+* You will then be prompted to show
+  * Magnet Links for 1337x and RuTor
+  * Go to/Display torrent file download page
+  * View Game's page on fitgirls site.
+That's it!
+
+## How does it work?
+This program is essentially a webscraper and uses beautifulsoup with python under the hood.
+
+I am simply scraping her official website for the games based on the user's search input, and based on their selection, giving the user a few options.
+
+## Why use this tool?
+This tool can be beneficial for those who do not want to risk potentially using an unofficial fitgirl site
+
+This tool can also speed up searching games, just run the program rather than use the browser.
+
+Easy for beginners or people who just want to simply find a magnet link and off they go.
